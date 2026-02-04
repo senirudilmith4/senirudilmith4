@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Seniru Dilmith
 
 🎓 **AI & Data Science Undergraduate**  
-💻 **Java Developer | Backend Engineering | Machine Learning Enthusiast**  
+💻 **Java | Python | Backend Engineering | Machine Learning Enthusiast**  
 🚀 Passionate about building practical applications, automation tools, and intelligent systems.
 
 ---
